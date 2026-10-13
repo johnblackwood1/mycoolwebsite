@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Johns Amazing RSS</title>
+    <description>Hello! This is my news feed! I hope you enjoy it. Here i cover all of my amazing cool projects and other stuff too. Make sure your using a RSS reader!</description>
+
+    <item>
+      <title>My first RSS post. Ever..</title>
+      <description>Hello! This is my first ever RSS post! I hope you like it! Also check out my twitch: cherrypepsiLIVE</description>
+    <item>
+  </channel>
+</rss>
