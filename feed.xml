@@ -5,8 +5,14 @@
     <description>Hello! This is my news feed! I hope you enjoy it. Here i cover all of my amazing cool projects and other stuff too. Make sure your using a RSS reader!</description>
 
     <item>
+      <title>Why did i make this RSS news feed?</title>
+      <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
+      <description>Hello! This is my second ever post. The reason why i made this news feed is because im bad at using firebase and other APIs -_- so i decided to try this out so i can leave little posts on my website with stuff im working on and more. for now theres nothing much and i will add more. thank you</description>
+    </item>
+
+    <item>
       <title>My first RSS post. Ever..</title>
-      <link>https://johnblackwood1.github.io/mycoolwebsite/</link>
+      <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
       <description>Hello! This is my first ever RSS post! I hope you like it! Also check out my twitch: cherrypepsiLIVE</description>
     </item>
   </channel>
