@@ -2,15 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Johns Amazing RSS</title>
+    <link>https://johnblackwood1.github.io/mycoolwebsite/</link>
     <description>Hello! This is my news feed! I hope you enjoy it. Here i cover all of my amazing cool projects and other stuff too. Make sure your using a RSS reader!</description>
 
     <item>
       <title>Welcome Papa's Freezeria to the Arcade!</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
       <guid>5</guid>
-      <description>Yes. Thats right! Papa's Freezeria (Flash version) is now in the Arcade! Go check it out!<description>
+      <description>Yes. Thats right! Papa's Freezeria (Flash version) is now in the Arcade! Go check it out!</description>
     </item>
-    
+     
     <item>
       <title>What im planning on adding to the website</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
@@ -24,7 +25,7 @@
       <guid>3</guid>
       <description>Im working on some projects. Right now im working the awesome club website and this website (my personal one). For now theres nothing much but i will make some new projects coming soon.</description>
     </item>
-    
+     
     <item>
       <title>Why did i make this RSS news feed?</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
