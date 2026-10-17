@@ -5,26 +5,37 @@
     <description>Hello! This is my news feed! I hope you enjoy it. Here i cover all of my amazing cool projects and other stuff too. Make sure your using a RSS reader!</description>
 
     <item>
+      <title>Welcome Papa's Freezeria to the Arcade!</title>
+      <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
+      <guid>5</guid>
+      <description>Yes. Thats right! Papa's Freezeria (Flash version) is now in the Arcade! Go check it out!<description>
+    </item>
+    
+    <item>
       <title>What im planning on adding to the website</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
+      <guid>4</guid>
       <description>Ive been thinking about adding something to my website. I really dont know what to add but i have some ideas. 1. An arcade room. Hear me out this idea is great as FREE GAMES! 2. A art gallery (to show off my skills and such). 3. COOL VIDEOS! 4. An imbed of my twitch stream on the home page. YAY</description>
     </item>  
 
     <item>
       <title>What im working on right now</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
+      <guid>3</guid>
       <description>Im working on some projects. Right now im working the awesome club website and this website (my personal one). For now theres nothing much but i will make some new projects coming soon.</description>
     </item>
     
     <item>
       <title>Why did i make this RSS news feed?</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
+      <guid>2</guid>
       <description>Hello! This is my second ever post. The reason why i made this news feed is because im bad at using firebase and other APIs -_- so i decided to try this out so i can leave little posts on my website with stuff im working on and more. for now theres nothing much and i will add more. thank you</description>
     </item>
 
     <item>
       <title>My first RSS post. Ever..</title>
       <link>https://johnblackwood1.github.io/mycoolwebsite/feed.xml</link>
+      <guid>1</guid>
       <description>Hello! This is my first ever RSS post! I hope you like it! Also check out my twitch: cherrypepsiLIVE</description>
     </item>
   </channel>
